@@ -6,7 +6,7 @@ console.log("confirm message: ", confirmMessage);
 let response = getFavoriteSport();
 
 function getFavoriteSport() {
-    let userSport = prompt("what's your favorite movie?");
+    let userSport = prompt("what's your favorite Sport?");
     userSport = userSport.toLowerCase();
     let response;
 
